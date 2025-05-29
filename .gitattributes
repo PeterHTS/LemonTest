@@ -1,4 +1,4 @@
-*.eap filter=lfs diff=LemonTree merge=LemonTree binary
-*.eapx filter=lfs diff=LemonTree merge=LemonTree binary
-*.qea filter=lfs diff=LemonTree merge=LemonTree binary
-*.qeax filter=lfs diff=LemonTree merge=LemonTree binary
+*.eap merge=LemonTree binary
+*.eapx merge=LemonTree binary
+*.qea merge=LemonTree binary
+*.qeax merge=LemonTree binary
